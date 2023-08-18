@@ -1,0 +1,1 @@
+C:\dev\lab\Quantidade\Quantidade\Quantidade.UWP\Quantidade.UWP.csproj;x64

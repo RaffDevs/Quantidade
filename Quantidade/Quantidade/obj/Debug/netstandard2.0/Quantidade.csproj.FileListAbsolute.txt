@@ -1,0 +1,15 @@
+C:\dev\lab\Quantidade\Quantidade\Quantidade\bin\Debug\netstandard2.0\Quantidade.deps.json
+C:\dev\lab\Quantidade\Quantidade\Quantidade\bin\Debug\netstandard2.0\Quantidade.dll
+C:\dev\lab\Quantidade\Quantidade\Quantidade\bin\Debug\netstandard2.0\ref\Quantidade.dll
+C:\dev\lab\Quantidade\Quantidade\Quantidade\bin\Debug\netstandard2.0\Quantidade.pdb
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.csproj.AssemblyReference.cache
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.AssemblyInfoInputs.cache
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.AssemblyInfo.cs
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.csproj.CoreCompileInputs.cache
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.dll
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\refint\Quantidade.dll
+C:\dev\lab\Quantidade\Quantidade\Quantidade\obj\Debug\netstandard2.0\Quantidade.pdb
